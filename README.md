@@ -104,7 +104,7 @@ Always seeking new knowledge to grow in my career.
 
   <br>
 
-  ### 👋 Olá, eu sou o Gabriel! (Versão em Português)
+  ### 👋 Olá, eu sou o Gabriel!
 
   **Sobre mim**
   - 🙋‍♂️ Atualmente trabalho como Desenvolvedor Full-Stack em uma importante instituição financeira pública.
