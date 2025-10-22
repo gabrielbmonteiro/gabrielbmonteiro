@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="#english-version">English</a> | <a href="#versao-portugues">Português</a>
-</div>
-
----
-<a name="english-version"></a>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=180&section=header&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
@@ -15,7 +8,7 @@
 
 <br>
 
-### 👋 Hi, I'm Gabriel! (English Version)
+### 👋 Hi, I'm Gabriel!
 
 **About Me**
 - 🙋‍♂️ Currently working as a Full-Stack Developer at a major public financial institution.
@@ -27,7 +20,7 @@
 
 ### 🚀 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbmonteiro03@gmail.com)
 
 <br>
 
