@@ -26,17 +26,17 @@
 
 ### 🛠️ My Tech Stack
 
-**💻 Back-end & Architecture**
+**💻 Backend & Architecture**
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
 </p>
-<ul>
-  <li>Microservices Architecture</li>
-  <li>Designing and building RESTful APIs</li>
-  <li>Applying Design Patterns</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/Microservices-007B8A?style=for-the-badge" alt="Microservices Architecture">
+  <img src="https://img.shields.io/badge/RESTful_APIs-007B8A?style=for-the-badge" alt="RESTful APIs">
+  <img src="https://img.shields.io/badge/Design_Patterns-007B8A?style=for-the-badge" alt="Design Patterns">
+</p>
 
 **🌐 Front-end**
 <p>
@@ -48,12 +48,14 @@
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/IBM%20WebSphere-0062AC?style=for-the-badge&logo=ibm&logoColor=white" alt="WebSphere">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/IBM%20WebSphere-0062AC?style=for-the-badge&logo=ibm&logoColor=white" alt="WebSphere">
 </p>
 
 **🧪 Testing & Quality**
@@ -108,31 +110,31 @@ Always seeking new knowledge to grow in my career.
 
   **Sobre mim**
   - 🙋‍♂️ Atualmente trabalho como Desenvolvedor Full-Stack em uma importante instituição financeira pública.
-  - 🎓 Quase Cientista da Computação pela Universidade Federal do Ceará (UFC).
-  - 💡 Apaixonado por desenvolvimento Back-end, arquitetura de microsserviços e design de soluções.
+  - 🎓 Graduando em Ciência da Computação pela Universidade Federal do Ceará (UFC).
+  - 💡 Apaixonado por desenvolvimento backend, arquitetura de microsserviços e design de soluções.
   - 🚀 Experiência profissional com metodologias ágeis (Kanban).
 
   <br>
 
   ### 🚀 Conecte-se comigo
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-  [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+  [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbmonteiro03@gmail.com)
 
   <br>
 
   ### 🛠️ Meu Arsenal Tecnológico
 
-  **💻 Back-end & Arquitetura**
+  **💻 Backend & Arquitetura**
   <p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-  </p>
-  <ul>
-    <li>Arquitetura de Microsserviços</li>
-    <li>Design e construção de APIs RESTful</li>
-    <li>Aplicação de Padrões de Projeto (Design Patterns)</li>
-  </ul>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Microservices-007B8A?style=for-the-badge" alt="Microservices Architecture">
+  <img src="https://img.shields.io/badge/RESTful_APIs-007B8A?style=for-the-badge" alt="RESTful APIs">
+  <img src="https://img.shields.io/badge/Design_Patterns-007B8A?style=for-the-badge" alt="Design Patterns">
+</p>
 
   **🌐 Front-end**
   <p>
@@ -144,12 +146,14 @@ Always seeking new knowledge to grow in my career.
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-    <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-    <img src="https://img.shields.io/badge/IBM%20WebSphere-0062AC?style=for-the-badge&logo=ibm&logoColor=white" alt="WebSphere">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+    <img src="https://img.shields.io/badge/IBM%20WebSphere-0062AC?style=for-the-badge&logo=ibm&logoColor=white" alt="WebSphere">
   </p>
 
   **🧪 Testes & Qualidade**
