@@ -3,7 +3,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:D41b22,0:000000,100:000000&height=130&section=header&animation=twinkling&fontAlignY=35"/>
   </a>
   <a href="https://github.com/itaditya#gh-light-mode-only">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:D41b22,0:FFFFFF,100:F8F8F8&height=130&section=header&animation=twinkling&fontAlignY=35"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:D41b22,100:FFFFFF&height=130&section=header&animation=twinkling&fontAlignY=35"/>
   </a>
 </div>
 
