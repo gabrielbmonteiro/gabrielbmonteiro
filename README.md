@@ -11,6 +11,16 @@
          alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
   </a>
 </div>
+
+<div align="center">
+  <!-- <a href="[SEU_LINK_DO_LINKEDIN_AQUI]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> -->
+  
+  <img src="https://img.shields.io/badge/Gmail-990000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  
+</div>
+
 <br>
 
 ### 👋 About Me
@@ -19,10 +29,6 @@
 - 💡 Passionate about backend development, microservices architecture, and solution design.
 - 🚀 Professional experience with agile methodologies (Kanban).
 
-#### ⨽ Connect with me
-  <a href="mailto:gabrielbmonteiro03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
 </div>
 
 <hr style="border:none; height:1px; color:#333; background-color:#333;">
