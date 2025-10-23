@@ -74,7 +74,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>🧰 Testing & Quality</b></td>
+    <td valign="top"><b>🧰 IDEs & Design Tools</b></td>
     <td>
       </p>
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
