@@ -1,11 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:D41b22,0:000000,100:000000&height=130&section=header&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&bust=3#gh-dark-mode-only"
-       alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
-    
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=000000&lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&bust=4#gh-light-mode-only"
-       alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=ffffff&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=13">
+      
+    <source 
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=000000&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=14">
+      
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=000000&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=14"
+      alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
+  </picture>
 </div>
 
 <br>
