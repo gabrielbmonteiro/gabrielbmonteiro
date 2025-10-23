@@ -2,7 +2,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:)" alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D#gh-dark-mode-only"
+         alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
+  </a>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=000000&lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D#gh-light-mode-only"
+         alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
   </a>
 </div>
 
