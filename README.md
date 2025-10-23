@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:D41b22,0:000000,100:000000&height=180&section=header&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:D41b22,0:000000,100:000000&height=130&section=header&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
       <br>
-      <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift">
+      <img src="https://img.shields.io/badge/Red%20Hat%20Open%20Shift-EE0000.svg?style=for-the-badge&logo=Red-Hat-Open-Shift&logoColor=white" alt="Open Shift">
       <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
       <img src="https://img.shields.io/badge/IBM%20WebSphere-0062AC?style=for-the-badge&logo=ibm&logoColor=white" alt="WebSphere">
     </td>
