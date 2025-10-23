@@ -1,21 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:D41b22,0:000000,100:000000&height=130&section=header&animation=twinkling&fontAlignY=35"/>
 
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=ffffff&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=50">
-      
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=000000&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=51">
-      
-    <img 
-      alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)"
-      src="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=000000&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=51">
-  </picture>
-</p>
 
+<div align="center">
+  <a href="https://github.com/itaditya#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:)"
+         alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
+  </a>
+  <a href="https://github.com/itaditya#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=000000&lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:)"
+         alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
+  </a>
+</div>
 <br>
 
 ### 👋 About Me
