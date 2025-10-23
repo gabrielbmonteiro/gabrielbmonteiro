@@ -1,20 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:D41b22,0:000000,100:000000&height=130&section=header&animation=twinkling&fontAlignY=35"/>
 
-<div align="center">
+<p align="center">
   <picture>
     <source 
-      media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=ffffff&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=13">
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=ffffff&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=50">
       
     <source 
-      media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=000000&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=14">
+      media="(prefers-color-scheme: light)" 
+      srcset="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=000000&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=51">
       
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=000000&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=14"
-      alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)">
+      alt="Hello, I'm Gabriel Monteiro; Full-Stack Developer; Welcome to my profile! :)"
+      src="https://readme-typing-svg.herokuapp.com/?center=true&amp;vCenter=true&amp;color=000000&amp;lines=Hello,+I'm+Gabriel+Monteiro;Full-Stack+Developer;Welcome+to+my+profile!+:D&amp;bust=51">
   </picture>
-</div>
+</p>
 
 <br>
 
