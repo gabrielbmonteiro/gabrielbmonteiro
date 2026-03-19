@@ -61,6 +61,7 @@
     <td>
       <a href="https://github.com/itaditya#gh-dark-mode-only"><img src="https://img.shields.io/badge/React-151b23?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
       <a href="https://github.com/itaditya#gh-dark-mode-only"><img src="https://img.shields.io/badge/Node.js-151b23?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js"></a>
+      <a href="https://github.com/itaditya#gh-dark-mode-only"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript (Front-end)"></a>
       <a href="https://github.com/itaditya#gh-light-mode-only"><img src="https://img.shields.io/badge/React-f6f8fa?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
       <a href="https://github.com/itaditya#gh-light-mode-only"><img src="https://img.shields.io/badge/Node.js-f6f8fa?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js"></a>
       <a href="https://github.com/itaditya#gh-light-mode-only"><img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript (Front-end)"></a>
