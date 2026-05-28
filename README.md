@@ -19,8 +19,6 @@
 </div>
 
 <div align="center">
-  <a href="[....]#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-  <a href="[....]#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
   <a href="mailto:gabrielbmonteiro03@gmail.com#gh-dark-mode-only" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"></a>
   <a href="mailto:gabrielbmonteiro03@gmail.com#gh-light-mode-only" target="_blank"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"></a>
 </div>
