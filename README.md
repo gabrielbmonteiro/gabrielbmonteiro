@@ -128,8 +128,6 @@ Always seeking new knowledge to grow in my career.
 <p>
   <a href="https://github.com/itaditya#gh-dark-mode-only"><img src="https://img.shields.io/badge/Apache_Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka (Messaging)"></a>
   <a href="https://github.com/itaditya#gh-dark-mode-only"><img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform (IaC)"></a>
-  <a href="https://github.com/itaditya#gh-dark-mode-only"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript (Front-end)"></a>
   <a href="https://github.com/itaditya#gh-light-mode-only"><img src="https://img.shields.io/badge/Apache_Kafka-FFFFFF?style=for-the-badge&logo=apachekafka&logoColor=000000" alt="Apache Kafka (Messaging)"></a>
   <a href="https://github.com/itaditya#gh-light-mode-only"><img src="https://img.shields.io/badge/Terraform-FFFFFF?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform (IaC)"></a>
-  <a href="https://github.com/itaditya#gh-light-mode-only"><img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript (Front-end)"></a>
 </p>
